@@ -4,15 +4,15 @@ This is the implementation code for Visually Augmented Text Generation Task
 # Environment Setup
 git clone 
 <br /> cd iNLG/
-for dataset in activitynet commongen rocstories
-do
-    mkdir -p log/${dataset}
-done
+<br /> for dataset in activitynet commongen rocstories
+<br /> do
+<br />     mkdir -p log/${dataset}
+<br /> done
 
 # Step 2: Setup conda environment
-conda env create -f env.yml
-conda activate inlg
-python -m spacy download en
+<br /> conda env create -f env.yml
+<br /> conda activate inlg
+<br /> python -m spacy download en
 
 ## Text Generation
 # For Concept2Text
