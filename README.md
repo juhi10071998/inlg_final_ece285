@@ -3,7 +3,7 @@ This is the implementation code for Visually Augmented Text Generation Task
 
 # Environment Setup
 git clone 
-cd iNLG/
+<br /> cd iNLG/
 for dataset in activitynet commongen rocstories
 do
     mkdir -p log/${dataset}
