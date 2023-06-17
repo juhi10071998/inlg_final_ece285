@@ -1,5 +1,5 @@
 # inlg_final_ece285
-This is the implementation code for Visually Augmented Text Generation Task
+This is the implementation code for Visually Augmented Text Generation Task, due to size limitations, we have not uploaded the code on github.
 
 # Environment Setup
 git clone 
